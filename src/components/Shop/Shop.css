@@ -8,6 +8,17 @@
     grid-gap: 45px;
     margin: 80px 50px;
 }
+.cart-container{
+    background-color: rgba(252, 117, 67, 0.918);
+    padding: 20px;
+    text-align: center;
+    font-family: 'lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: whitesmoke;
+}
 @media screen and (max-width:1100px) {
     .products-container{
         grid-template-columns: repeat(2,1fr);
