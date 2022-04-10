@@ -34,6 +34,11 @@
   border-radius: 5px;
   border: none;
   font-size: 20px;
+  cursor: pointer;
+}
+.form-submit:hover{
+    color: #f0ece9;
+    background-color:green;
 }
 .form-link{
     color: #ff9900;
